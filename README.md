@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
