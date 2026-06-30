@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
