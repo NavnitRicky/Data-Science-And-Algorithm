@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0001-two-sum) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/1683-invalid-tweets) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
