@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0509-fibonacci-number) |
 ## Array
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0141-linked-list-cycle) |
