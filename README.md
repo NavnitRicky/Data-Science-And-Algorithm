@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0014-longest-common-prefix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -77,5 +78,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0557-reverse-words-in-a-string-iii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
