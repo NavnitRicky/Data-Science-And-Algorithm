@@ -9,7 +9,7 @@ class Solution {
         int l=0;
         int r=k;
         int max=sum;
-        while(r<=arr.length-1){
+        while(r<arr.length){
             sum-=arr[l];
             l++;
             sum+=arr[r];
