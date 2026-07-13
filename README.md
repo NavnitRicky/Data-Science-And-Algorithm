@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0263-ugly-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0509-fibonacci-number) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0061-rotate-list) |
