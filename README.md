@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0326-power-of-three) |
+| [0371-sum-of-two-integers](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0164-maximum-gap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
