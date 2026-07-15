@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0164-maximum-gap](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0164-maximum-gap) |
+| [0219-contains-duplicate-ii](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0219-contains-duplicate-ii) |
 ## Database
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 ## Sorting
 |  |
