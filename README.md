@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
