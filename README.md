@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0164-maximum-gap](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0164-maximum-gap) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
