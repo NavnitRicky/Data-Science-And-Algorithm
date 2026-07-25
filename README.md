@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0326-power-of-three) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0164-maximum-gap](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0164-maximum-gap) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
