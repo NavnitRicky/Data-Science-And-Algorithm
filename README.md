@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Trie
