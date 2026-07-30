@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [0977-squares-of-a-sorted-array](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0977-squares-of-a-sorted-array](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0164-maximum-gap) |
+| [0977-squares-of-a-sorted-array](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 ## Bucket Sort
 |  |
 | ------- |
