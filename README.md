@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Database
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0164-maximum-gap) |
+| [0242-valid-anagram](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/NavnitRicky/Data-Science-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 ## Bucket Sort
 |  |
